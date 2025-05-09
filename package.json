@@ -80,7 +80,7 @@
     "@patternfly/react-styles": "^3.7.4",
     "express": "^4.13.4",
     "react-axe": "^3.4.1",
-    "react-router-dom": "^5.0.1",
+    "react-router-dom": "^7.5.2",
     "react-router-last-location": "^2.0.1"
   }
 }
